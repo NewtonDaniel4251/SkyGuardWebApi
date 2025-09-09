@@ -5,6 +5,7 @@ appsettings.*.json
 # Ignore environment files
 .env
 .env.*
+.vs/
 
 # Ignore build outputs
 bin/
