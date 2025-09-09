@@ -1,0 +1,6 @@
+@SkyGuard.API_HostAddress = http://localhost:5124
+
+GET {{SkyGuard.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
